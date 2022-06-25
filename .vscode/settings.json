@@ -1,0 +1,12 @@
+{
+  "python.autoComplete.extraPaths": [
+  "D:\\tmp\\web\\htmlcss\\flask\\env\\Scripts","D:\\tmp\\web\\htmlcss\\flask\\env\\Lib\\site-packages",
+  "D:\\renew\\another\\python3\\Scripts", "D:\\renew\\another\\python3\\Lib\\site-packages"
+  ],
+  "python.analysis.extraPaths": [
+    "D:\\tmp\\web\\htmlcss\\flask\\env\\Scripts",
+    "D:\\tmp\\web\\htmlcss\\flask\\env\\Lib\\site-packages",
+    "D:\\renew\\another\\python3\\Scripts",
+    "D:\\renew\\another\\python3\\Lib\\site-packages"
+  ]
+}
